@@ -5,4 +5,7 @@ Developing:
 - Websites in Html, JavaScript, typescript, rust and css
 - Minecraft clients / servers / plugins / mods in Java
 
-## Working with
+<details>	
+    <summary><b>👅 Used Languages</b></summary>
+    <img src="https://github.com/languages.svg">
+</details>
