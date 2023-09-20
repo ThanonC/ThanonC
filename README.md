@@ -2,7 +2,7 @@ Hi I'm thanon
 
 <details>
   <summary>Stuff I do</summary>
-  - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
+    - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
   
   - Websites in Html, JavaScript, typescript, rust and css
 
