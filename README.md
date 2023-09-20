@@ -1,8 +1,10 @@
-Hi I'm thanon
+Hi I'm Thanon,
+I'm a Developer since 2018, I come from Germany but speak most of the time English
 
 <details>
   <summary>Stuff I do</summary>
-    - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
+  
+  - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
   
   - Websites in Html, JavaScript, typescript, rust and css
 
