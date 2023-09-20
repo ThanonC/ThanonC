@@ -1,9 +1,11 @@
 Hi I'm thanon
 
-Developing:
+<details>
+  <summary>Stuff I do</summary>
 - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
 - Websites in Html, JavaScript, typescript, rust and css
 - Minecraft clients / servers / plugins / mods in Java
+</details>
 
 <details>
   <summary>Social Media</summary>
