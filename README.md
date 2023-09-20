@@ -2,11 +2,11 @@ Hi I'm thanon
 
 <details>
   <summary>Stuff I do</summary>
-- discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
+  - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
   
-- Websites in Html, JavaScript, typescript, rust and css
+  - Websites in Html, JavaScript, typescript, rust and css
 
-- Minecraft clients / servers / plugins / mods in Java
+  - Minecraft clients / servers / plugins / mods in Java
 </details>
 
 <details>
