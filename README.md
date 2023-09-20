@@ -16,3 +16,11 @@ Developing:
 
 - <a href="https://www.youtube.com/@TTCallabout">Youtube</a>
 </details>
+
+<details>
+  <summary>Programming Languages</summary>
+
+  - Python
+  - Html, Css, JavaScript
+  - Java
+</details>
