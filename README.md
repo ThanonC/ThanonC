@@ -7,7 +7,7 @@ I'm a Developer since 2018, I come from Germany and speak English and German
   
   - discord / ts3 / WhatsApp bots in Java, Typescript and JavaScript
   
-  - Websites in Html, JavaScript, typescript, rust and css
+  - Websites in Html, JavaScript, typescript, css and React
 
   - Minecraft clients / servers / plugins / mods in Java
 </details>
@@ -28,6 +28,6 @@ I'm a Developer since 2018, I come from Germany and speak English and German
   <summary>Programming Languages</summary>
 
   - Python
-  - Html, Css, JavaScript
   - Java
+  - Html, Css, JavaScript
 </details>
