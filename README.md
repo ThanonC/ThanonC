@@ -13,11 +13,11 @@ I'm a Developer since 2018, I come from Germany and speak English and German
 </details>
 
 <details>
-  <summary>Social Media</summary>
+  <summary>Platforms I'm on</summary>
   
 - <a href="https://g.dev/thanon">Google Developers</a>
 
-- <a href="https://discord.gg/suKuFvWb65">Discord</a>
+- <a href="https://discord.com/users/960946185768685618">Discord</a>
 
 - <a href="https://twitch.tv/thanongaming">Twitch</a>
 
