@@ -17,7 +17,7 @@ I'm a Developer since 2018, I come from Germany and speak English and German
   
 - <a href="https://g.dev/thanon">Google Developers</a>
 
-- <a>Stack Overflow</a>
+- <a href="https://stackoverflow.com/users/22878052/thanon">Stack Overflow</a>
 
 - <a href="https://discord.com/users/960946185768685618">Discord</a>
 
