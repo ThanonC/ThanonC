@@ -31,5 +31,5 @@ I'm a Developer since 2018, I come from Germany and speak English and German
 
   - Python
   - Java
-  - Html, Css, JavaScript
+  - Html, Css, JavaScript, TypeScript
 </details>
