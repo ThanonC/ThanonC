@@ -33,6 +33,6 @@ I'm a Developer since 2018, I come from Germany and speak English and German
  - Python
  - Html, css, JavaScript, Typescript
  
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThanonC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThanonC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
