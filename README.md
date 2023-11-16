@@ -1,6 +1,6 @@
 Hi I'm Thanon, 
 
-I'm a Developer since 2018, I come from Germany and speak English and German
+I'm a Developer since 2018, I come from Germany but prefer to speak English
 
 <details>
   <summary>Stuff I do</summary>
