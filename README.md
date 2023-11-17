@@ -1,6 +1,7 @@
 Hi I'm Thanon, 
 
 I'm a Developer since 2018, I come from Germany but prefer to speak English
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thanonc)
 
 <details>
   <summary>Stuff I do</summary>
