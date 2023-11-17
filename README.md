@@ -4,6 +4,8 @@ I'm a Developer since 2018, I come from Germany but prefer to speak English
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thanonc)
 
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThanonC&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>Stuff I do</summary>
   
@@ -26,11 +28,4 @@ I'm a Developer since 2018, I come from Germany but prefer to speak English
 - <a href="https://twitch.tv/thanongaming">Twitch</a>
 
 - <a href="https://www.youtube.com/@TTCallabout">Youtube</a>
-</details>
-
-<details>
-  <summary>Used Languages</summary>
- 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThanonC&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
