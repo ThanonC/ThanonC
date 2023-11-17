@@ -27,11 +27,7 @@ I'm a Developer since 2018, I come from Germany but prefer to speak English
 </details>
 
 <details>
-  <summary>Programming Languagea</summary>
-  
- - Java
- - Python
- - Html, css, JavaScript, Typescript
+  <summary>Used Languages</summary>
  
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThanonC&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
